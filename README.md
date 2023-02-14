@@ -1,2 +1,2 @@
-# C#
-Для задач по С#
+ Visual studio
+ C#
